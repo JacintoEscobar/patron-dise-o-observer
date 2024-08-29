@@ -1,0 +1,17 @@
+{
+  "name": "estudio-java",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx tsc index.ts && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": [
+
+  ],
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
